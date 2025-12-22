@@ -55,8 +55,8 @@ convolutional-neural-network/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/convolutional-neural-network.git
-cd convolutional-neural-network
+git clone https://github.com/your-username/convolutional-neural-network-1.git
+cd convolutional-neural-network-1
 ```
 
 ### 2. Install dependencies
