@@ -44,7 +44,7 @@ This project implements a **Convolutional Neural Network (CNN)** to recognize di
 convolutional-neural-network/
 │── data/
 │── src/
-│   └── cnn_digit_recognition.py
+│   └── cnn.py
 │── README.md
 │── requirements.txt
 ```
